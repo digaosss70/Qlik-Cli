@@ -1,0 +1,3 @@
+#LOGAR EM UM TENANT
+qlik context init
+
