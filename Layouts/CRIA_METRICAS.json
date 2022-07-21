@@ -1,0 +1,86 @@
+[
+	{
+   "qInfo": {
+    "qId": "mtc_dias_01",
+    "qType": "measure"
+   },
+   "qMeasure": {
+    "qLabel": "Dias Úteis no mês 1",
+    "qDef": "$(=Only({1<%Pk_Tipo={'Métrica'},  %Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Fórmula_Métrica))",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Rótulo_Métrica))",
+    "descriptionExpression": {
+     "qStringExpression": {
+      "qExpr": "'$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'}>}  %Pk_Descrição_Métrica))'"
+     }
+    },
+    "coloring": {}
+   },
+   "qMetaDef": {
+    "title": "Dias Úteis no mês 1",
+    "description": "",
+    "tags": ["$Dias"]
+   }
+   
+   
+  }
+,
+	{
+   "qInfo": {
+    "qId": "mtc_dias_02",
+    "qType": "measure"
+   },
+   "qMeasure": {
+    "qLabel": "Dias Úteis no mês 2",
+    "qDef": "$(=Only({1<%Pk_Tipo={'Métrica'},  %Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Fórmula_Métrica))",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Rótulo_Métrica))",
+    "descriptionExpression": {
+     "qStringExpression": {
+      "qExpr": "'$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'}>}  %Pk_Descrição_Métrica))'"
+     }
+    },
+    "coloring": {}
+   },
+   "qMetaDef": {
+    "title": "Dias Úteis no mês 2",
+    "description": "",
+    "tags": ["$Dias"]
+   }
+   
+   
+  }
+,
+	{
+   "qInfo": {
+    "qId": "mtc_dias_03",
+    "qType": "measure"
+   },
+   "qMeasure": {
+    "qLabel": "Dias Úteis no mês 3",
+    "qDef": "$(=Only({1<%Pk_Tipo={'Métrica'},  %Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Fórmula_Métrica))",
+    "qGrouping": "N",
+    "qExpressions": [],
+    "qActiveExpression": 0,
+    "qLabelExpression": "$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Rótulo_Métrica))",
+    "descriptionExpression": {
+     "qStringExpression": {
+      "qExpr": "'$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'}>}  %Pk_Descrição_Métrica))'"
+     }
+    },
+    "coloring": {}
+   },
+   "qMetaDef": {
+    "title": "Dias Úteis no mês 3",
+    "description": "",
+    "tags": ["$Dias"]
+   }
+   
+   
+  }
+]
+

@@ -19,6 +19,12 @@ qlik data-file update 7c39b855-3669-4276-a9e3-63357292d478 --connectionId "61bec
 #UPDATE DE ARQUIVO CRIADO NO MEU ESPAÇO PESSOAL
 qlik data-file update ef2b2038-35f5-435c-ad33-64bea9e29fd9 --file "C:\Users\Asus\Desktop\dfsdf.txt"
 
+#UPDATE DE ARQUIVO CRIADO NO MEU ESPAÇO PESSOAL E GERANDO UM LOG CONCATENANDO
+qlik data-file update ef2b2038-35f5-435c-ad33-64bea9e29fd9 --file "C:\Users\Asus\Desktop\dfsdf.txt" >> "C:\Users\Asus\Desktop\LOG.txt"
+
+#UPDATE DE ARQUIVO CRIADO NO MEU ESPAÇO PESSOAL E GERANDO UM LOG UNICO
+qlik data-file update ef2b2038-35f5-435c-ad33-64bea9e29fd9 --file "C:\Users\Asus\Desktop\dfsdf.txt" > "C:\Users\Asus\Desktop\LOG.txt"
+
 #DELETAR UM UNICO ARQUIVO
 qlik data-file rm 7c39b855-3669-4276-a9e3-63357292d478
 
