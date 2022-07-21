@@ -33,3 +33,6 @@ qlik app measure ls --app "e8fd9b39-5116-41f8-8f4c-13f377a76574"
 
 #DELETA MÉTRICA DE UM APP
 qlik app measure rm mtc_dias_01 --app "e8fd9b39-5116-41f8-8f4c-13f377a76574"
+
+#RELOAD BACKGOUND
+qlik reload create --appId "86e976ab-d0b0-4b0d-a463-285104530f80"

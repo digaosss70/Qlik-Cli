@@ -1,27 +1,27 @@
 [
 	{
    "qInfo": {
-    "qId": "mtc_dias_01",
+    "qId": "metrica01",
     "qType": "measure"
    },
    "qMeasure": {
-    "qLabel": "Dias Úteis no mês 1",
-    "qDef": "$(=Only({1<%Pk_Tipo={'Métrica'},  %Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Fórmula_Métrica))",
+    "qLabel": "metrica01",
+    "qDef": "=sum(Expression1)",
     "qGrouping": "N",
     "qExpressions": [],
     "qActiveExpression": 0,
-    "qLabelExpression": "$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Rótulo_Métrica))",
+    "qLabelExpression": "'metrica01'",
     "descriptionExpression": {
      "qStringExpression": {
-      "qExpr": "'$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'}>}  %Pk_Descrição_Métrica))'"
+      "qExpr": "'DESCRICAO DA METRICA 01'"
      }
     },
     "coloring": {}
    },
    "qMetaDef": {
-    "title": "Dias Úteis no mês 1",
+    "title": "metrica 01",
     "description": "",
-    "tags": ["$Dias"]
+    "tags": ["tag1","tag2"]
    }
    
    
@@ -29,55 +29,55 @@
 ,
 	{
    "qInfo": {
-    "qId": "mtc_dias_02",
+    "qId": "metrica02",
     "qType": "measure"
    },
    "qMeasure": {
-    "qLabel": "Dias Úteis no mês 2",
-    "qDef": "$(=Only({1<%Pk_Tipo={'Métrica'},  %Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Fórmula_Métrica))",
+    "qLabel": "metrica02",
+    "qDef": "=sum(Expression2)",
     "qGrouping": "N",
     "qExpressions": [],
     "qActiveExpression": 0,
-    "qLabelExpression": "$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Rótulo_Métrica))",
+    "qLabelExpression": "'metrica02'",
     "descriptionExpression": {
      "qStringExpression": {
-      "qExpr": "'$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'}>}  %Pk_Descrição_Métrica))'"
+      "qExpr": "'DESCRICAO DA METRICA 02'"
      }
     },
     "coloring": {}
    },
    "qMetaDef": {
-    "title": "Dias Úteis no mês 2",
+    "title": "metrica 02",
     "description": "",
-    "tags": ["$Dias"]
+    "tags": ["tag1b","tag2b"]
    }
    
    
   }
 ,
-	{
+{
    "qInfo": {
-    "qId": "mtc_dias_03",
+    "qId": "metrica03",
     "qType": "measure"
    },
    "qMeasure": {
-    "qLabel": "Dias Úteis no mês 3",
-    "qDef": "$(=Only({1<%Pk_Tipo={'Métrica'},  %Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Fórmula_Métrica))",
+    "qLabel": "metrica03",
+    "qDef": "=sum(Expression3)",
     "qGrouping": "N",
     "qExpressions": [],
     "qActiveExpression": 0,
-    "qLabelExpression": "$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'} >}  %Pk_Rótulo_Métrica))",
+    "qLabelExpression": "'metrica03'",
     "descriptionExpression": {
      "qStringExpression": {
-      "qExpr": "'$(=Only({1<%Pk_Tipo={'Métrica'},%Pk_Métrica={'Dias Úteis no mês'}>}  %Pk_Descrição_Métrica))'"
+      "qExpr": "'DESCRICAO DA METRICA 03'"
      }
     },
     "coloring": {}
    },
    "qMetaDef": {
-    "title": "Dias Úteis no mês 3",
+    "title": "metrica 03",
     "description": "",
-    "tags": ["$Dias"]
+    "tags": ["tag1c","tag2c"]
    }
    
    
