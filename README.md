@@ -30,4 +30,12 @@ Acesse o link para verificar como deixar o qliksense em modo legado: https://hel
 
 
 
+# Welcome to the Qlik-Cli wiki!
 
+* [Help](https://github.com/digaosss70/Qlik-Cli/wiki/01---Help)
+* [Primeiros Passos “Logando” no “tenant”](https://github.com/digaosss70/Qlik-Cli/wiki/02---Primeiros-Passos-%E2%80%9CLogando%E2%80%9D-no-%E2%80%9Ctenant%E2%80%9D-(Ambiente))
+* [Listar “tenants” (Ambientes) Logados](https://github.com/digaosss70/Qlik-Cli/wiki/03-Listar-%E2%80%9Ctenants%E2%80%9D-(Ambientes)-Logados)
+* [Comandos “Space”](https://github.com/digaosss70/Qlik-Cli/wiki/04-Comandos-%E2%80%9CSpace%E2%80%9D)
+* [Comandos “data-file”](https://github.com/digaosss70/Qlik-Cli/wiki/05-Comandos-%E2%80%9Cdata-file%E2%80%9D)
+* [Comandos “app”](https://github.com/digaosss70/Qlik-Cli/wiki/06-Comandos-%E2%80%9Capp%E2%80%9D)
+* [Usando “Jq”](https://github.com/digaosss70/Qlik-Cli/wiki/07-Usando-%E2%80%9CJq%E2%80%9D)
