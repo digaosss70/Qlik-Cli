@@ -13,11 +13,21 @@ Ela pode ser acessada através de CDM, PowerShell, PowerShell ISE ou através de
 Acesse o link para verificar como deixar o qliksense em modo legado: https://help.qlik.com/pt-BR/sense/May2022/Subsystems/Hub/Content/Sense_Hub/LoadData/disable-standard-mode.htm
 
 # Links de apoio
-- Qlikdev  - Outras ferramentas e tutoriais estão disponíveis aqui:  https://qlik.dev/
-- Qlik-cli - Documentação específica do Qlik-Cli: https://qlik.dev/libraries-and-tools/qlik-cli
-- Chocolatey - Ferramenta de apoio para manutenção, instalação de ferramentas, módulos de linha de comando: https://chocolatey.org/
-- Jq - modulo para filtros, mudanças no resultado para ferramentas, módulos de linha de comando: https://stedolan.github.io/jq/
-- PowerShell Guia - Github com um extenso guia sobre PowerShell: https://github.com/danieldonda/PowerShell
+
+- Qlikdev - Outras ferramentas e tutoriais estão disponíveis aqui: https://qlik.dev/
+
+- Qlik-cli - Documentação específica do Qlik-Cli: https://qlik.dev/libraries-and-tools/qlik-cli
+
+- Chocolatey - modulo de apoio para manutenção de módulos de linha de comando: https://chocolatey.org/
+
+- Chocolatey Instalação: https://chocolatey.org/install
+
+- Jq - modulo para filtros no resultado para ferramentas, módulos de linha de comando: https://stedolan.github.io/jq/
+
+- Jq Instalação -  https://stedolan.github.io/jq/download/
+
+- PowerShell Guia - Github com guia sobre PowerShell: https://github.com/danieldonda/PowerShell
+
 
 
 
