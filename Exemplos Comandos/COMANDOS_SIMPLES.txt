@@ -1,3 +1,8 @@
 #LOGAR EM UM TENANT
 qlik context init
 
+#LISTAR TENANTS
+qlik context ls
+
+#USAR UM TENANT ESPECIFICO
+qlik context use nome_do_context_aparece_no_ls
