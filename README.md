@@ -20,11 +20,11 @@ Acesse o link para verificar como deixar o qliksense em modo legado: https://hel
 
 - Chocolatey - modulo de apoio para manutenção de módulos de linha de comando: https://chocolatey.org/
 
-- Chocolatey Instalação: Chocolatey Software | Installing Chocolatey
+- Chocolatey Instalação: https://chocolatey.org/install
 
 - Jq - modulo para filtros no resultado para ferramentas, módulos de linha de comando: https://stedolan.github.io/jq/
 
-- Jq Instalação -  Download jq (stedolan.github.io)
+- Jq Instalação -  https://stedolan.github.io/jq/download/
 
 - PowerShell Guia - Github com guia sobre PowerShell: https://github.com/danieldonda/PowerShell
 
