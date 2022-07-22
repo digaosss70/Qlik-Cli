@@ -1,7 +1,7 @@
 ﻿#deletar arquivos de um espaço
 
 #query do espaço id
-$queryEspacoId = '[.[] | select(.spaceId == \"62bd8cb2302dbace918f6727\") | {id: .id}][0].id'
+$queryEspacoId = '[.[] | select(.spaceId == \"62d968fe2b76a4c4f402a3a6\") | {id: .id}][0].id'
 
 #querry com o id da conexão
 $conexaoId = qlik data-file connection ls | jq $queryEspacoId
