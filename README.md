@@ -30,7 +30,7 @@ Acesse o link para verificar como deixar o qliksense em modo legado: https://hel
 
 
 
-# Welcome to the Qlik-Cli wiki!
+# Tópicos
 
 * [Help](https://github.com/digaosss70/Qlik-Cli/wiki/01---Help)
 * [Instalação](https://github.com/digaosss70/Qlik-Cli/wiki/01.1-Instala%C3%A7%C3%A3o)
